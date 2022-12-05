@@ -215,18 +215,7 @@
             "phone": "+1-541-754-3010",
             "id": "3"
         },
-        {
-            "name": "MINEPAT",
-            "profilePic": "/assets/img/speakers/eagle.jpg",
-            "instagram": "ionicframework",
-            "twitter": "ionicframework",
-            "about": "Ministère de l’Économie, de la Planification et de l'Aménagement du territoire",
-            "title": "Developer Advocate",
-            "location": "Everywhere",
-            "email": "eva@example.com",
-            "phone": "+1-541-754-3010",
-            "id": "4"
-        },
+
         {
             "name": "Marthe Wandou",
             "profilePic": "/assets/img/speakers/elephant.jpg",
@@ -252,41 +241,20 @@
             "id": "6"
         },
         {
-            "name": "Kouokam Narcisse",
+            "name": "Lousie Tala",
             "profilePic": "/assets/img/speakers/elephant.jpg",
             "instagram": "ionicframework",
             "twitter": "ionicframework",
-            "about": "société civile",
-            "title": "Artiste / humoriste",
+            "about": "MINPAT",
+            "title": "Repr. secteur privé",
             "location": "Everywhere",
             "email": "ellie@example.com",
             "phone": "+1-541-754-3010",
             "id": "7"
-        },
-        {
-            "name": "Eric Christian Nya",
-            "profilePic": "/assets/img/speakers/elephant.jpg",
-            "instagram": "ionicframework",
-            "twitter": "ionicframework",
-            "about": "société civile",
-            "title": "Modérateur",
-            "location": "Everywhere",
-            "email": "ellie@example.com",
-            "phone": "+1-541-754-3010",
-            "id": "8"
-        },
-        {
-            "name": "Heugang Bélise",
-            "profilePic": "/assets/img/speakers/elephant.jpg",
-            "instagram": "ionicframework",
-            "twitter": "ionicframework",
-            "about": "société civile",
-            "title": "Modératrice",
-            "location": "Everywhere",
-            "email": "ellie@example.com",
-            "phone": "+1-541-754-3010",
-            "id": "9"
         }
+
+
+
     ],
 
     "map": [{
