@@ -180,12 +180,12 @@
     }],
 
     "speakers": [{
-            "name": "Dpt. Régional BMZ",
+            "name": "Dr Iven Schad ",
             "profilePic": "/assets/img/speakers/bear.jpg",
             "instagram": "ionicframework",
             "twitter": "ionicframework",
             "about": "Burt is a Bear. Burt's interests include poetry, dashing space heroes, and lions.",
-            "title": "BMZ",
+            "title": "Dpt. Régional BMZ",
             "location": "Everywhere",
             "email": "burt@example.com",
             "phone": "+1-541-754-3010",
