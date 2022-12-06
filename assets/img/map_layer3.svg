@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="494" viewBox="0 0 800 494">
+  <defs>
+    <clipPath id="clip-carte-musée-info">
+      <rect width="800" height="494"/>
+    </clipPath>
+  </defs>
+  <g id="carte-musée-info" clip-path="url(#clip-carte-musée-info)">
+    <rect width="800" height="494" fill="#fff"/>
+    <g id="Bloc-musee" data-name="Le bloc gris du musée">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="654" height="99" transform="translate(73)" fill="#ccc"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="98" height="83" transform="translate(351 54)" fill="#ccc"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="64" height="19" transform="translate(368 137)" fill="#ccc"/>
+    </g>
+    <g id="Entree-musee" data-name="Le bloc d'entrée">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="98" height="83" transform="translate(351 54)" fill="#ccc"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="64" height="19" transform="translate(368 137)" fill="#ccc"/>
+    </g>
+    <g id="Salle-conf" data-name="Salle de conférence">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="153" height="54" transform="translate(141)" fill="#00a65f"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="16" height="27" transform="translate(134 27)" fill="#00a65f"/>
+    </g>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="57" height="72" transform="translate(294 27)" fill="#1abffd"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M6,0l6,8H0Z" transform="translate(394 161)"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M6,0l6,8H0Z" transform="translate(394 99)"/>
+    <path id="Polygon_3" data-name="Polygon 3" d="M6,0l6,8H0Z" transform="translate(355 69) rotate(-90)"/>
+    <path id="Polygon_4" data-name="Polygon 4" d="M6,0l6,8H0Z" transform="translate(297 48) rotate(-90)"/>
+    <g id="Group_10" data-name="Group 10">
+      <g id="Group_6" data-name="Group 6">
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="46" height="338" transform="translate(377 156)" fill="#f7f7f7"/>
+        <rect id="Rectangle_10" data-name="Rectangle 10" width="46" height="53" transform="translate(377 227)" fill="#ccc"/>
+        <rect id="Rectangle_11" data-name="Rectangle 11" width="46" height="53" transform="translate(377 305)" fill="#ccc"/>
+        <rect id="Rectangle_12" data-name="Rectangle 12" width="46" height="43" transform="translate(377 383)" fill="#ccc"/>
+        <rect id="Rectangle_13" data-name="Rectangle 13" width="46" height="43" transform="translate(377 451)" fill="#ccc"/>
+      </g>
+      <g id="Group_9" data-name="Group 9">
+        <rect id="Rectangle_14" data-name="Rectangle 14" width="264" height="43" transform="translate(73 451)" fill="#ccc"/>
+        <g id="Group_4" data-name="Group 4">
+          <path id="Subtraction_1" data-name="Subtraction 1" d="M194,287.358H-70v-270H108.26L194,106.144V287.357Z" transform="translate(143 138.643)" fill="#f7f7f7"/>
+          <rect id="Rectangle_17" data-name="Rectangle 17" width="264" height="270" rx="22" transform="translate(73 156)" fill="#f7f7f7"/>
+        </g>
+        <rect id="Rectangle_19" data-name="Rectangle 19" width="200" height="200" transform="translate(83 215)" fill="#ccc"/>
+      </g>
+      <g id="Group_8" data-name="Group 8">
+        <path id="Path_1" data-name="Path 1" d="M0,0H264V43H0Z" transform="translate(463 451)" fill="#ccc"/>
+        <g id="Group_7" data-name="Group 7">
+          <g id="Group_5" data-name="Group 5" transform="translate(463 156)">
+            <path id="Subtraction_1-2" data-name="Subtraction 1" d="M178.259,270H0V0H264V181.214L178.259,270Z" transform="translate(264.001 270.001) rotate(180)" fill="#f7f7f7"/>
+            <rect id="Rectangle_17-2" data-name="Rectangle 17" width="264" height="270" rx="22" transform="translate(0)" fill="#f7f7f7"/>
+          </g>
+          <rect id="Rectangle_20" data-name="Rectangle 20" width="200" height="200" transform="translate(517 215)" fill="#ccc"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Stand-accueil-media" data-name="Rectangle 21" width="50" height="50" transform="translate(143 365)" fill="#1aaa6c"/>
+    <rect id="Stand-sante-protection" data-name="Rectangle 22" width="50" height="50" transform="translate(83 245)" fill="#91c8cf"/>
+    <rect id="Stand-BG" data-name="Rectangle 23" width="50" height="50" transform="translate(83 305)" fill="#876BA1"/>
+    <rect id="Stand-Institut-Goethe" data-name="Rectangle 24" width="50" height="50" transform="translate(83 365)" fill="#89AE10"/>
+    <rect id="Stand-KFW" data-name="Rectangle 25" width="35" height="35" transform="translate(620 218)" fill="#005F95"/>
+    <rect id="Stand-GIZ" data-name="Rectangle 26" width="35" height="35" transform="translate(620 278)" fill="#C70F10"/>
+    <rect id="Stand-BGR" data-name="Rectangle 27" width="35" height="35" transform="translate(620 338)" fill="#01337A"/>
+    <rect id="Stand-Secteur-Vert" data-name="Rectangle 28" width="35" height="78" transform="translate(680 335)" fill="#89AE10"/>
+    <rect id="Stand-Dev-rural" data-name="Rectangle 29" width="35" height="78" transform="translate(680 218)" fill="#f3af42"/>
+    <path id="Polygon_5" data-name="Polygon 5" d="M6,0l6,8H0Z" transform="translate(394 161)"/>
+    <path id="ic_error_outline_24px" d="M9.2,12.4h1.6V14H9.2ZM9.2,6h1.6v4.8H9.2Zm.792-4A8,8,0,1,0,18,10,8,8,0,0,0,9.992,2ZM10,16.4A6.4,6.4,0,1,1,16.4,10,6.4,6.4,0,0,1,10,16.4Z" transform="translate(135 32)"/>
+    <path id="ic_error_outline_24px-2" data-name="ic_error_outline_24px" d="M9.2,12.4h1.6V14H9.2ZM9.2,6h1.6v4.8H9.2Zm.792-4A8,8,0,1,0,18,10,8,8,0,0,0,9.992,2ZM10,16.4A6.4,6.4,0,1,1,16.4,10,6.4,6.4,0,0,1,10,16.4Z" transform="translate(83 274)"/>
+    <path id="ic_error_outline_24px-3" data-name="ic_error_outline_24px" d="M9.2,12.4h1.6V14H9.2ZM9.2,6h1.6v4.8H9.2Zm.792-4A8,8,0,1,0,18,10,8,8,0,0,0,9.992,2ZM10,16.4A6.4,6.4,0,1,1,16.4,10,6.4,6.4,0,0,1,10,16.4Z" transform="translate(83 334)"/>
+    <path id="ic_error_outline_24px-4" data-name="ic_error_outline_24px" d="M9.2,12.4h1.6V14H9.2ZM9.2,6h1.6v4.8H9.2Zm.792-4A8,8,0,1,0,18,10,8,8,0,0,0,9.992,2ZM10,16.4A6.4,6.4,0,1,1,16.4,10,6.4,6.4,0,0,1,10,16.4Z" transform="translate(83 394)"/>
+    <path id="ic_error_outline_24px-5" data-name="ic_error_outline_24px" d="M9.2,12.4h1.6V14H9.2ZM9.2,6h1.6v4.8H9.2Zm.792-4A8,8,0,1,0,18,10,8,8,0,0,0,9.992,2ZM10,16.4A6.4,6.4,0,1,1,16.4,10,6.4,6.4,0,0,1,10,16.4Z" transform="translate(143 394)"/>
+    <path id="ic_error_outline_24px-6" data-name="ic_error_outline_24px" d="M9.2,12.4h1.6V14H9.2ZM9.2,6h1.6v4.8H9.2Zm.792-4A8,8,0,1,0,18,10,8,8,0,0,0,9.992,2ZM10,16.4A6.4,6.4,0,1,1,16.4,10,6.4,6.4,0,0,1,10,16.4Z" transform="translate(620 232)"/>
+    <path id="ic_error_outline_24px-7" data-name="ic_error_outline_24px" d="M9.2,12.4h1.6V14H9.2ZM9.2,6h1.6v4.8H9.2Zm.792-4A8,8,0,1,0,18,10,8,8,0,0,0,9.992,2ZM10,16.4A6.4,6.4,0,1,1,16.4,10,6.4,6.4,0,0,1,10,16.4Z" transform="translate(620 292)"/>
+    <path id="ic_error_outline_24px-8" data-name="ic_error_outline_24px" d="M9.2,12.4h1.6V14H9.2ZM9.2,6h1.6v4.8H9.2Zm.792-4A8,8,0,1,0,18,10,8,8,0,0,0,9.992,2ZM10,16.4A6.4,6.4,0,1,1,16.4,10,6.4,6.4,0,0,1,10,16.4Z" transform="translate(620 352)"/>
+    <path id="ic_error_outline_24px-9" data-name="ic_error_outline_24px" d="M9.2,12.4h1.6V14H9.2ZM9.2,6h1.6v4.8H9.2Zm.792-4A8,8,0,1,0,18,10,8,8,0,0,0,9.992,2ZM10,16.4A6.4,6.4,0,1,1,16.4,10,6.4,6.4,0,0,1,10,16.4Z" transform="translate(680 394)"/>
+    <path id="ic_error_outline_24px-10" data-name="ic_error_outline_24px" d="M9.2,12.4h1.6V14H9.2ZM9.2,6h1.6v4.8H9.2Zm.792-4A8,8,0,1,0,18,10,8,8,0,0,0,9.992,2ZM10,16.4A6.4,6.4,0,1,1,16.4,10,6.4,6.4,0,0,1,10,16.4Z" transform="translate(680 272)"/>
+  </g>
+</svg>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "schedule": [{
         "date": "2022-07-22",
@@ -306,3 +307,313 @@
         }
     ]
 }
+=======
+{
+    "schedule": [{
+        "date": "2022-07-22",
+        "groups": [{
+                "time": "8:30 am",
+                "sessions": [{
+                    "name": "Arrivée des participants ",
+                    "description": "Accueil et enregistrement des participants - Arrivée des autorités administratives et municipales.",
+                    "timeStart": "8:30 am",
+                    "timeEnd": "9:00 am",
+                    "location": "HALL ",
+                    "tracks": ["Arrival"],
+                    "id": "1"
+                }]
+            },
+            {
+                "time": "9:00 am",
+                "sessions": [{
+                        "name": "Plénière – Lancement cérémonie",
+                        "location": "SALLE DE CONFERENCE",
+                        "description": "Overture de la cérémonie",
+                        "speakerNames": ["Moderator"],
+                        "timeStart": "9:00 am",
+                        "timeEnd": "9:05 am",
+                        "tracks": ["Ouverture"],
+                        "id": "2"
+                    },
+                    {
+                        "name": "Intermède : reprise des hymnes allemandes et camerounaises",
+                        "location": "SALLE DE CONFERENCE",
+                        "description": " ",
+                        "speakerNames": ["Choral"],
+                        "timeStart": "9:05 am",
+                        "timeEnd": "9:30 am",
+                        "tracks": ["Ouverture"],
+                        "id": "3"
+                    },
+                    {
+                        "name": "Présentation de l’agenda de la journée et bienvenue au délégué BMZ",
+                        "location": "SALLE DE CONFERENCE",
+                        "description": " Présentation de l’agenda de la journée et bienvenue au délégué BMZ ",
+                        "speakerNames": ["Dpt. Régional BMZ"],
+                        "timeStart": "9:30 am",
+                        "timeEnd": "9:35 am",
+                        "tracks": ["Allocution"],
+                        "id": "4"
+                    },
+                    {
+                        "name": "Mot de bienvenue de Mme l’Ambassadeur ",
+                        "location": "SALLE DE CONFERENCE",
+                        "description": " Mot de bienvenue de Mme l’Ambassadeur",
+                        "speakerNames": ["Dr Corinna Fricke"],
+                        "timeStart": "9:35 am",
+                        "timeEnd": "9:45 am",
+                        "tracks": ["Allocution"],
+                        "id": "5"
+                    },
+                    {
+                        "name": "Projection du film sur la coopération germano-camerounaise",
+                        "location": "SALLE DE CONFERENCE",
+                        "description": "Présenetation du film.",
+                        "speakerNames": ["Video"],
+                        "timeStart": "9:45 am",
+                        "timeEnd": "10:00 am",
+                        "tracks": ["Allocution"],
+                        "id": "6"
+                    },
+                    {
+                        "name": "Allocution d’ouverture du MINEPAT",
+                        "location": "SALLE DE CONFERENCE",
+                        "description": "Discours du MINEPAT.",
+                        "speakerNames": ["Ellie Elephant"],
+                        "timeStart": "10:00 am",
+                        "timeEnd": "10:10 am",
+                        "tracks": ["Allocution"],
+                        "id": "7"
+                    },
+                    {
+                        "name": "Sketch ou humour sur la coopération germano-camerounaise",
+                        "location": "SALLE DE CONFERENCE",
+                        "description": "Sketch ou humour sur la coopération germano-camerounaise.",
+                        "speakerNames": ["Ellie Elephant"],
+                        "timeStart": "10:10 am",
+                        "timeEnd": "10:20 am",
+                        "tracks": ["Break"],
+                        "id": "8"
+                    },
+                    {
+                        "name": "Photo de famille",
+                        "location": "STAND MEDIA CENTER",
+                        "description": "Photos de famille - Plage Photo",
+                        "speakerNames": ["Ellie Elephant"],
+                        "timeStart": "10:20 am",
+                        "timeEnd": "10:45 am",
+                        "tracks": ["Media"],
+                        "id": "9"
+                    },
+                    {
+                        "name": "Interviews avec la presse",
+                        "location": "STAND MEDIA CENTER",
+                        "description": "Interviews avec la presse",
+                        "speakerNames": ["Ellie Elephant"],
+                        "timeStart": "10:20 am",
+                        "timeEnd": "10:45 am",
+                        "tracks": ["Media"],
+                        "id": "10"
+                    }
+
+                ]
+            },
+            {
+                "time": "11:00 am",
+                "sessions": [{
+                        "name": "Visite guidée des stands des quatre pôles prioritaires ",
+                        "location": "STANDS POLES PRIORITAIRES",
+                        "description": " 1) Gouvernance, décentralisation, paix etcohésion sociale , 2)Développement rural , 3)Gestion durable desressources naturelles, 4)Santé, protection sociale etpolitique démographique  <br>Le site est organisé par pôle prioritaire et les stands supplémentaires. Pendant que les autorités visitent les stands par un tour facilité par le modérateur officiel, les autres participants seront guidés par les hôtesses dans une autre partie du jardin du musée pour y aussi visiter des autres stands et discuter avec d’autres collègues des pôles.",
+                        "speakerNames": ["Eva Eagle", "Lionel Lion"],
+                        "timeStart": "11:00 am",
+                        "timeEnd": "12:00 pm",
+                        "tracks": ["Visite"],
+                        "id": "11"
+                    }
+
+                ]
+            },
+            {
+                "time": "12:00 am",
+                "sessions": [{
+                    "name": "Pause-déjeuner",
+                    "location": "Stand Cocktail",
+                    "description": "Service traiteur,  salles à manger indiquées par le Protocolle / Hôtesses.",
+                    "speakerNames": [""],
+                    "timeStart": "12:00 pm",
+                    "timeEnd": "1:00 pm",
+                    "tracks": ["Pause"],
+                    "id": "12"
+                }]
+            },
+
+            {
+                "time": "1:00 pm",
+                "sessions": [{
+                    "name": "Panel de discussion sur la thématique :   Le concept de la durabilité dans l'émergence du Cameroun. ",
+                    "location": "Hall 1",
+                    "description": "4 Panélistes : MINEPAT, Représentant du BMZ, une Représentante de la société civile et une Représentante du secteur privé. <br> Modération : M.Eric Christian Nya / Mme BéliseHeugang",
+                    "speakerNames": ["Paul Puppy"],
+                    "timeStart": "1:00 pm",
+                    "timeEnd": "2:00 pm",
+                    "tracks": ["Communication"],
+                    "id": "13"
+                }]
+            },
+            {
+                "time": "2:00 pm",
+                "sessions": [{
+                    "name": "Visite des stands",
+                    "location": "Hall 2",
+                    "description": "Marché d’informations au sein des pôles prioritaires",
+                    "speakerNames": [""],
+                    "timeStart": "2:00 pm",
+                    "timeEnd": "4:00 pm",
+                    "tracks": ["Communication"],
+                    "id": "14"
+                }]
+            },
+            {
+                "time": "4:00 pm",
+                "sessions": [{
+                    "name": "Clôture de la journée ",
+                    "location": "SALLE DE CONFERENCE",
+                    "description": "Fin de la journée",
+                    "speakerNames": ["Ted Turtle"],
+                    "timeStart": "4:00 pm",
+                    "timeEnd": "4:10 pm",
+                    "tracks": ["Fermeture"],
+                    "id": "17"
+                }]
+            }
+        ]
+    }],
+
+    "speakers": [{
+            "name": "Dr Iven Schad ",
+            "profilePic": "/assets/img/speakers/bear.jpg",
+            "instagram": "ionicframework",
+            "twitter": "ionicframework",
+            "about": "Burt is a Bear. Burt's interests include poetry, dashing space heroes, and lions.",
+            "title": "Dpt. Régional BMZ",
+            "location": "Everywhere",
+            "email": "burt@example.com",
+            "phone": "+1-541-754-3010",
+            "id": "1"
+        },
+        {
+            "name": "SE Dr Corinna Fricke",
+            "profilePic": "/assets/img/speakers/cheetah.jpg",
+            "instagram": "ionicframework",
+            "twitter": "ionicframework",
+            "about": "Charlie is a Cheetah. Charlie's interests include country music, plush animals, pyrotechnics, and skeletons.",
+            "title": "Mme. l’ambassadeur de l’Allemagne au Cameroun ",
+            "location": "Everywhere",
+            "email": "charlie@example.com",
+            "phone": "+1-541-754-3010",
+            "id": "2"
+        },
+        {
+            "name": "Dr Valentin Katzer",
+            "profilePic": "/assets/img/speakers/duck.jpg",
+            "instagram": "ionicframework",
+            "twitter": "ionicframework",
+            "about": "Donald is a Duck. Donald's interests include carpentry, superheroes, merpeople, and glam rock.",
+            "title": "Chef de coopération, Ambassade d’Allemagne",
+            "location": "Everywhere",
+            "email": "donald@example.com",
+            "phone": "+1-541-754-3010",
+            "id": "3"
+        },
+
+        {
+            "name": "Marthe Wandou",
+            "profilePic": "/assets/img/speakers/elephant.jpg",
+            "instagram": "ionicframework",
+            "twitter": "ionicframework",
+            "about": "société civile",
+            "title": "Civil society advocate",
+            "location": "Everywhere",
+            "email": "ellie@example.com",
+            "phone": "+1-541-754-3010",
+            "id": "5"
+        },
+        {
+            "name": "SE Alamine Ousmane Mey",
+            "profilePic": "/assets/img/speakers/elephant.jpg",
+            "instagram": "ionicframework",
+            "twitter": "ionicframework",
+            "about": "MINPAT",
+            "title": "Ministre de l’Économie, de la Planification et de l'Aménagement du territoire",
+            "location": "Everywhere",
+            "email": "ellie@example.com",
+            "phone": "+1-541-754-3010",
+            "id": "6"
+        },
+        {
+            "name": "Lousie Tala",
+            "profilePic": "/assets/img/speakers/elephant.jpg",
+            "instagram": "ionicframework",
+            "twitter": "ionicframework",
+            "about": "MINPAT",
+            "title": "Repr. secteur privé",
+            "location": "Everywhere",
+            "email": "ellie@example.com",
+            "phone": "+1-541-754-3010",
+            "id": "7"
+        }
+
+
+
+    ],
+
+    "map": [{
+            "name": "Le Musée National de Yaoundé",
+            "lat": 3.860518,
+            "lng": 11.515800,
+            "center": true
+        },
+        {
+            "name": "Ionic HQ",
+            "lat": 43.074395,
+            "lng": -89.381056
+        },
+        {
+            "name": "Afterparty - Brocach Irish Pub",
+            "lat": 43.07336,
+            "lng": -89.38335
+        }
+    ],
+
+    "tracks": [{
+            "name": "Arrival",
+            "icon": "compass"
+        },
+        {
+            "name": "Communication",
+            "icon": "document"
+        },
+        {
+            "name": "Pause-déjeuner",
+            "icon": "restaurant"
+        },
+        {
+            "name": "Break",
+            "icon": "restaurant"
+        },
+
+        {
+            "name": "Allocution",
+            "icon": "bullhorn"
+        },
+        {
+            "name": "Panel",
+            "icon": "users"
+        },
+        {
+            "name": "Navigation",
+            "icon": "compass"
+        }
+    ]
+}
+>>>>>>> ae23daa (update core area page & map page)
