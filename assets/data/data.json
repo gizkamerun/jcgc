@@ -304,5 +304,357 @@
             "name": "Navigation",
             "icon": "compass"
         }
+    ],
+
+    "natresources": [{
+            "basename": "APA_TEXTE_DE_LOIS_FR",
+            "title": "APA_TEXTE_DE_LOIS_FR",
+            "author": "N/A",
+            "ebookId": 1,
+            "filesize": "1.34M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/APA_TEXTE_DE_LOIS_FR-000001.png",
+            "fileUrl": "./assets/natresouces/APA_TEXTE_DE_LOIS_FR.pdf"
+        },
+        {
+            "basename": "B_A_I_ADC_Pr\u00e9servation_du_couvert_v\u00e9g\u00e9tal",
+            "title": "B_A_I_ADC_Pr\u00e9servation_du_couvert_v\u00e9g\u00e9tal",
+            "author": "N/A",
+            "ebookId": 2,
+            "filesize": "17.06M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/B_A_I_ADC_Pr\u00e9servation_du_couvert_v\u00e9g\u00e9tal-000001.png",
+            "fileUrl": "./assets/natresouces/B_A_I_ADC_Pr\u00e9servation_du_couvert_v\u00e9g\u00e9tal.pdf"
+        },
+        {
+            "basename": "B_A_I_PARTICIPATION_EFFICACE_A_LA_PRISE_DE_DECISION",
+            "title": "B_A_I_PARTICIPATION_EFFICACE_A_LA_PRISE_DE_DECISION",
+            "author": "N/A",
+            "ebookId": 3,
+            "filesize": "23.42M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/B_A_I_PARTICIPATION_EFFICACE_A_LA_PRISE_DE_DECISION-000001.png",
+            "fileUrl": "./assets/natresouces/B_A_I_PARTICIPATION_EFFICACE_A_LA_PRISE_DE_DECISION.pdf"
+        },
+        {
+            "basename": "Bakossi_National_Park_Flyer",
+            "title": "Bakossi_National_Park_Flyer",
+            "author": "N/A",
+            "ebookId": 4,
+            "filesize": "1.23M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Bakossi_National_Park_Flyer-000001.png",
+            "fileUrl": "./assets/natresouces/Bakossi_National_Park_Flyer.pdf"
+        },
+        {
+            "basename": "Bakossi_National_Park_info_sheet",
+            "title": "Bakossi_National_Park_info_sheet",
+            "author": "N/A",
+            "ebookId": 5,
+            "filesize": "1.50M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Bakossi_National_Park_info_sheet-000001.png",
+            "fileUrl": "./assets/natresouces/Bakossi_National_Park_info_sheet.pdf"
+        },
+        {
+            "basename": "Banyang_Mbo_Wildlife_Sanctuary_sheet",
+            "title": "Banyang_Mbo_Wildlife_Sanctuary_sheet",
+            "author": "N/A",
+            "ebookId": 6,
+            "filesize": "1.38M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Banyang_Mbo_Wildlife_Sanctuary_sheet-000001.png",
+            "fileUrl": "./assets/natresouces/Banyang_Mbo_Wildlife_Sanctuary_sheet.pdf"
+        },
+        {
+            "basename": "Collaborative_management_flyer",
+            "title": "Collaborative_management_flyer",
+            "author": "N/A",
+            "ebookId": 7,
+            "filesize": "1.21M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Collaborative_management_flyer-000001.png",
+            "fileUrl": "./assets/natresouces/Collaborative_management_flyer.pdf"
+        },
+        {
+            "basename": "Collaborative_management_sheet",
+            "title": "Collaborative_management_sheet",
+            "author": "N/A",
+            "ebookId": 8,
+            "filesize": "1.08M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Collaborative_management_sheet-000001.png",
+            "fileUrl": "./assets/natresouces/Collaborative_management_sheet.pdf"
+        },
+        {
+            "basename": "DIPIKAR_BROCHURE",
+            "title": "DIPIKAR_BROCHURE",
+            "author": "N/A",
+            "ebookId": 9,
+            "filesize": "396.80K",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/DIPIKAR_BROCHURE-000001.png",
+            "fileUrl": "./assets/natresouces/DIPIKAR_BROCHURE.pdf"
+        },
+        {
+            "basename": "ETAT_DE_CONSERVATION_DU_PARC_NATIONAL_DE_CAMPO_MA\u0027AN_final",
+            "title": "ETAT_DE_CONSERVATION_DU_PARC_NATIONAL_DE_CAMPO_MA\u0027AN_final",
+            "author": "N/A",
+            "ebookId": 10,
+            "filesize": "3.84M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/ETAT_DE_CONSERVATION_DU_PARC_NATIONAL_DE_CAMPO_MA\u0027AN_final-000001.png",
+            "fileUrl": "./assets/natresouces/ETAT_DE_CONSERVATION_DU_PARC_NATIONAL_DE_CAMPO_MA\u0027AN_final.pdf"
+        },
+        {
+            "basename": "Ecotourism_Info_Sheet",
+            "title": "Ecotourism_Info_Sheet",
+            "author": "N/A",
+            "ebookId": 11,
+            "filesize": "1.14M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Ecotourism_Info_Sheet-000001.png",
+            "fileUrl": "./assets/natresouces/Ecotourism_Info_Sheet.pdf"
+        },
+        {
+            "basename": "FCDO_Am\u00e9liorer_la_l\u00e9galit\u00e9_documentaire_des_bois_avant_exportation",
+            "title": "FCDO_Am\u00e9liorer_la_l\u00e9galit\u00e9_documentaire_des_bois_avant_exportation",
+            "author": "N/A",
+            "ebookId": 12,
+            "filesize": "5.00M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/FCDO_Am\u00e9liorer_la_l\u00e9galit\u00e9_documentaire_des_bois_avant_exportation-000001.png",
+            "fileUrl": "./assets/natresouces/FCDO_Am\u00e9liorer_la_l\u00e9galit\u00e9_documentaire_des_bois_avant_exportation.pdf"
+        },
+        {
+            "basename": "FCDO_GUIDE_SUR_LES_PROCEDURES_D\u2019EXPORTATION_DU_BOIS",
+            "title": "FCDO_GUIDE_SUR_LES_PROCEDURES_D\u2019EXPORTATION_DU_BOIS",
+            "author": "N/A",
+            "ebookId": 13,
+            "filesize": "17.08M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/FCDO_GUIDE_SUR_LES_PROCEDURES_D\u2019EXPORTATION_DU_BOIS-000001.png",
+            "fileUrl": "./assets/natresouces/FCDO_GUIDE_SUR_LES_PROCEDURES_D\u2019EXPORTATION_DU_BOIS.pdf"
+        },
+        {
+            "basename": "FCDO_MEILLEURES_PRATIQUES_DES_ENTREPRISES_FORESTIERES_24_mars",
+            "title": "FCDO_MEILLEURES_PRATIQUES_DES_ENTREPRISES_FORESTIERES_24_mars",
+            "author": "N/A",
+            "ebookId": 14,
+            "filesize": "13.86M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/FCDO_MEILLEURES_PRATIQUES_DES_ENTREPRISES_FORESTIERES_24_mars-000001.png",
+            "fileUrl": "./assets/natresouces/FCDO_MEILLEURES_PRATIQUES_DES_ENTREPRISES_FORESTIERES_24_mars.pdf"
+        },
+        {
+            "basename": "Factsheet_F4F_Cameroun_EN",
+            "title": "Factsheet_F4F_Cameroun_EN",
+            "author": "N/A",
+            "ebookId": 15,
+            "filesize": "612.82K",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Factsheet_F4F_Cameroun_EN-000001.png",
+            "fileUrl": "./assets/natresouces/Factsheet_F4F_Cameroun_EN.pdf"
+        },
+        {
+            "basename": "Factsheet_F4F_Cameroun_FR",
+            "title": "Factsheet_F4F_Cameroun_FR",
+            "author": "N/A",
+            "ebookId": 16,
+            "filesize": "627.18K",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Factsheet_F4F_Cameroun_FR-000001.png",
+            "fileUrl": "./assets/natresouces/Factsheet_F4F_Cameroun_FR.pdf"
+        },
+        {
+            "basename": "ICEC_info_sheet",
+            "title": "ICEC_info_sheet",
+            "author": "N/A",
+            "ebookId": 17,
+            "filesize": "1.23M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/ICEC_info_sheet-000001.png",
+            "fileUrl": "./assets/natresouces/ICEC_info_sheet.pdf"
+        },
+        {
+            "basename": "Korup_National_Park_Flyer",
+            "title": "Korup_National_Park_Flyer",
+            "author": "N/A",
+            "ebookId": 18,
+            "filesize": "4.43M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Korup_National_Park_Flyer-000001.png",
+            "fileUrl": "./assets/natresouces/Korup_National_Park_Flyer.pdf"
+        },
+        {
+            "basename": "Korup_National_Park_info_sheet",
+            "title": "Korup_National_Park_info_sheet",
+            "author": "N/A",
+            "ebookId": 19,
+            "filesize": "1.52M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Korup_National_Park_info_sheet-000001.png",
+            "fileUrl": "./assets/natresouces/Korup_National_Park_info_sheet.pdf"
+        },
+        {
+            "basename": "Landscape_sheet",
+            "title": "Landscape_sheet",
+            "author": "N/A",
+            "ebookId": 20,
+            "filesize": "1.59M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Landscape_sheet-000001.png",
+            "fileUrl": "./assets/natresouces/Landscape_sheet.pdf"
+        },
+        {
+            "basename": "Limbe_botanical_garden_Flyer",
+            "title": "Limbe_botanical_garden_Flyer",
+            "author": "N/A",
+            "ebookId": 21,
+            "filesize": "1.16M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Limbe_botanical_garden_Flyer-000001.png",
+            "fileUrl": "./assets/natresouces/Limbe_botanical_garden_Flyer.pdf"
+        },
+        {
+            "basename": "Limbe_botanical_garden_info_sheet",
+            "title": "Limbe_botanical_garden_info_sheet",
+            "author": "N/A",
+            "ebookId": 22,
+            "filesize": "1.23M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Limbe_botanical_garden_info_sheet-000001.png",
+            "fileUrl": "./assets/natresouces/Limbe_botanical_garden_info_sheet.pdf"
+        },
+        {
+            "basename": "Mount_Cameroon_National_Park_Flyer",
+            "title": "Mount_Cameroon_National_Park_Flyer",
+            "author": "N/A",
+            "ebookId": 23,
+            "filesize": "1.09M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Mount_Cameroon_National_Park_Flyer-000001.png",
+            "fileUrl": "./assets/natresouces/Mount_Cameroon_National_Park_Flyer.pdf"
+        },
+        {
+            "basename": "Mount_Cameroon_National_Park_info_sheet",
+            "title": "Mount_Cameroon_National_Park_info_sheet",
+            "author": "N/A",
+            "ebookId": 24,
+            "filesize": "1.33M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Mount_Cameroon_National_Park_info_sheet-000001.png",
+            "fileUrl": "./assets/natresouces/Mount_Cameroon_National_Park_info_sheet.pdf"
+        },
+        {
+            "basename": "PFNL-Transformes-du-Nord-et-Extreme-Nord_Giz-ProFE_v1_(1)",
+            "title": "Transformes-du-Nord-et-Extreme-Nord_Giz-ProFE_v1_(1)",
+            "author": "PFNL",
+            "ebookId": 25,
+            "filesize": "16.98M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/PFNL-Transformes-du-Nord-et-Extreme-Nord_Giz-ProFE_v1_(1)-000001.png",
+            "fileUrl": "./assets/natresouces/PFNL-Transformes-du-Nord-et-Extreme-Nord_Giz-ProFE_v1_(1).pdf"
+        },
+        {
+            "basename": "PFNL-_BOITE_\u00e0_IMAGES_COLLECTE_GIZ_ProFE_-_EN",
+            "title": "_BOITE_\u00e0_IMAGES_COLLECTE_GIZ_ProFE_-_EN",
+            "author": "PFNL",
+            "ebookId": 26,
+            "filesize": "32.43M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/PFNL-_BOITE_\u00e0_IMAGES_COLLECTE_GIZ_ProFE_-_EN-000001.png",
+            "fileUrl": "./assets/natresouces/PFNL-_BOITE_\u00e0_IMAGES_COLLECTE_GIZ_ProFE_-_EN.pdf"
+        },
+        {
+            "basename": "PFNL-_BOITE_\u00e0_IMAGES_COLLECTE_GIZ_ProFE_-_FR",
+            "title": "_BOITE_\u00e0_IMAGES_COLLECTE_GIZ_ProFE_-_FR",
+            "author": "PFNL",
+            "ebookId": 27,
+            "filesize": "32.57M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/PFNL-_BOITE_\u00e0_IMAGES_COLLECTE_GIZ_ProFE_-_FR-000001.png",
+            "fileUrl": "./assets/natresouces/PFNL-_BOITE_\u00e0_IMAGES_COLLECTE_GIZ_ProFE_-_FR.pdf"
+        },
+        {
+            "basename": "PSMNR_info_sheet",
+            "title": "PSMNR_info_sheet",
+            "author": "N/A",
+            "ebookId": 28,
+            "filesize": "581.38K",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/PSMNR_info_sheet-000001.png",
+            "fileUrl": "./assets/natresouces/PSMNR_info_sheet.pdf"
+        },
+        {
+            "basename": "RPF_BOITE_A_IMAGE",
+            "title": "RPF_BOITE_A_IMAGE",
+            "author": "N/A",
+            "ebookId": 29,
+            "filesize": "97.57M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/RPF_BOITE_A_IMAGE-000001.png",
+            "fileUrl": "./assets/natresouces/RPF_BOITE_A_IMAGE.pdf"
+        },
+        {
+            "basename": "RPF_Catalogue_des_options_de_restauration",
+            "title": "RPF_Catalogue_des_options_de_restauration",
+            "author": "N/A",
+            "ebookId": 30,
+            "filesize": "10.12M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/RPF_Catalogue_des_options_de_restauration-000001.png",
+            "fileUrl": "./assets/natresouces/RPF_Catalogue_des_options_de_restauration.pdf"
+        },
+        {
+            "basename": "RPF_Manuel_de_formation",
+            "title": "RPF_Manuel_de_formation",
+            "author": "N/A",
+            "ebookId": 31,
+            "filesize": "21.69M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/RPF_Manuel_de_formation-000001.png",
+            "fileUrl": "./assets/natresouces/RPF_Manuel_de_formation.pdf"
+        },
+        {
+            "basename": "TRAVAIL_RECUEIL_DE_TEXTE_Tome_1_FINAL_06_Septembre_2022",
+            "title": "TRAVAIL_RECUEIL_DE_TEXTE_Tome_1_FINAL_06_Septembre_2022",
+            "author": "N/A",
+            "ebookId": 32,
+            "filesize": "4.65M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/TRAVAIL_RECUEIL_DE_TEXTE_Tome_1_FINAL_06_Septembre_2022-000001.png",
+            "fileUrl": "./assets/natresouces/TRAVAIL_RECUEIL_DE_TEXTE_Tome_1_FINAL_06_Septembre_2022.pdf"
+        },
+        {
+            "basename": "TRAVAIL_RECUEIL_DE_TEXTE_Tome_2_FINAL_06_Septembre_2022",
+            "title": "TRAVAIL_RECUEIL_DE_TEXTE_Tome_2_FINAL_06_Septembre_2022",
+            "author": "N/A",
+            "ebookId": 33,
+            "filesize": "2.63M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/TRAVAIL_RECUEIL_DE_TEXTE_Tome_2_FINAL_06_Septembre_2022-000001.png",
+            "fileUrl": "./assets/natresouces/TRAVAIL_RECUEIL_DE_TEXTE_Tome_2_FINAL_06_Septembre_2022.pdf"
+        },
+        {
+            "basename": "Takamanda_National_Park_info_sheet",
+            "title": "Takamanda_National_Park_info_sheet",
+            "author": "N/A",
+            "ebookId": 34,
+            "filesize": "1.20M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/Takamanda_National_Park_info_sheet-000001.png",
+            "fileUrl": "./assets/natresouces/Takamanda_National_Park_info_sheet.pdf"
+        },
+        {
+            "basename": "WWF_Rapport_Inventaire_Faunique_CMNP_2020_20072021",
+            "title": "WWF_Rapport_Inventaire_Faunique_CMNP_2020_20072021",
+            "author": "N/A",
+            "ebookId": 35,
+            "filesize": "1.44M",
+            "extension": "pdf",
+            "imgUrl": "http://localhost/fueldemoapp/public/uploads/thumbnails/WWF_Rapport_Inventaire_Faunique_CMNP_2020_20072021-000001.png",
+            "fileUrl": "./assets/natresouces/WWF_Rapport_Inventaire_Faunique_CMNP_2020_20072021.pdf"
+        }
     ]
 }
